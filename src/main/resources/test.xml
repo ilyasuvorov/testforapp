@@ -5,6 +5,14 @@
     <test name="LoginTest">
         <classes>
             <class name="Login">
+                <methods>
+                    <!--<exclude name="testCaseZero"/>
+                    <exclude name="testCaseOne"/>
+                    <exclude name="testCaseTwo"/>
+                    <exclude name="testCaseThree"/>
+                    <exclude name="testCaseFour"/>
+                    <exclude name="testCaseFive"/>-->
+                </methods>
             </class>
         </classes>
     </test>
